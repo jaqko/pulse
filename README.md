@@ -1,2 +1,2 @@
-# bot
+# Butterscotch
 Butterscotch's GitHub appearance.
